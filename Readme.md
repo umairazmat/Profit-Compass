@@ -64,3 +64,36 @@ streamlit run .\app.py
 ```bash
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
+
+## Troubleshooting
+
+- Verify that API keys are correctly set in the `.env` file.
+- Ensure that the Python version and dependencies match the requirements.
+
+---
+
+## Contributing
+
+1. **Fork the repository**
+2. **Create a feature branch**
+
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+
+   3- **Commit your changes**
+
+   ```bash
+   git commit -m 'Add new feature'
+   ```
+
+4- **Push to the branch**
+`bash
+git push origin feature/YourFeature
+    `bash
+
+5- **Open a Pull Request**
+
+## 📞 Contact
+
+For queries or collaboration, please reach out at **hello@umairazmat.com**.
